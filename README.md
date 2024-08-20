@@ -6,7 +6,7 @@ The Google Earth Engine code can be found through the following links:
 
 ### Informal Settlement Mapping on GEE:
 
-- **2017**: [here](https://code.earthengine.google.com/f06316df36645f9f61863635a592dd7e)
+ [**2017**](https://code.earthengine.google.com/f06316df36645f9f61863635a592dd7e)
 - **2018**: [https://code.earthengine.google.com/771060ea47a8203455fba3de9ee284e0](https://code.earthengine.google.com/771060ea47a8203455fba3de9ee284e0)
 - **2019**: [https://code.earthengine.google.com/dda3e96b4a26785447016bc993a962b4](https://code.earthengine.google.com/dda3e96b4a26785447016bc993a962b4)
 - **2020**: [https://code.earthengine.google.com/52399e7477cf315eb6569e5542f584c0](https://code.earthengine.google.com/52399e7477cf315eb6569e5542f584c0)
